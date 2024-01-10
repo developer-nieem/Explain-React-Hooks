@@ -19,7 +19,7 @@ const UseEffectExample = () => {
 
     return (
         <div>
-            <h2>{timer}</h2>
+            {/* <h2>{timer}</h2> */}
         </div>
     );
 };
